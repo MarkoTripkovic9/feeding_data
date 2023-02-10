@@ -157,7 +157,7 @@ components:
           description: DM (Dry meter) percentage of ration
           format: double
         externalId:
-          type: string
+          type: integer
           description: ExternalId represent identification number of ration between systems
           example: '856'
         rationIngredients:
